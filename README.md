@@ -1,5 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-<img src="https://github.com/AsmaJalal/MyCarmedicsMobile/blob/main/car.gif" alt="Screenshot 1" width="1100" height="550">
+
+<img align="right" width="1200" height="5500" src="https://github.com/AsmaJalal/MyCarmedicsMobile/blob/main/car.gif" alt="Asma Jalal">
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
