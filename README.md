@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-<img align="right" width="1200" height="5500" src="https://github.com/AsmaJalal/MyCarmedicsMobile/blob/main/car.gif" alt="Asma Jalal">
+<img align="right" width="1200" height="400" src="https://github.com/AsmaJalal/MyCarmedicsMobile/blob/main/car.gif" alt="Asma Jalal">
 
 # Getting Started
 
